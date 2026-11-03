@@ -1,0 +1,30 @@
+{
+    "C_Cpp.default.cppStandard": "c++20",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "${workspaceFolder}",
+            "binaryPath": "${workspaceFolder}/bin/main",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "${workspaceFolder}",
+            "binaryPath": "${workspaceFolder}/bin/test-construtor-tamanho",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "${workspaceFolder}",
+            "binaryPath": "${workspaceFolder}/bin/test-inserir",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "${workspaceFolder}",
+            "binaryPath": "${workspaceFolder}/bin/test-contem",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "${workspaceFolder}",
+            "binaryPath": "${workspaceFolder}/bin/test-remover",
+            "binaryArgs": []
+        }
+    ]
+}
