@@ -1,0 +1,12 @@
+# Arquivos gerados pela compilação
+/bin/*
+!/bin/.gitkeep
+*.o
+*.d
+*.exe
+*.dSYM/
+
+# Arquivos locais do sistema e do editor
+.DS_Store
+/.vscode/*
+!/.vscode/settings.json
