@@ -1,0 +1,8 @@
+.DS_Store
+*.pdf
+*.html
+*dSYM/
+.vscode/*
+*.o
+/bin/
+*.exe
